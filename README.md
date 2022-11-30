@@ -14,4 +14,4 @@ Detailed release documentation can be extracted from lib.xws/doc folder.
 
 # Release v1.2.0 Brief
 Release Date : Jan-2022. 
-This release primarily contains changes to work with RI.6 xt-xcc and RI.7 xt-clang toolchain.
+ This release primarily contains changes to work with RI.6 xt-xcc and RI.7 xt-clang toolchain.
