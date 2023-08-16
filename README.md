@@ -1,17 +1,9 @@
-# Fusion_F1_NDSP
-NatureDSP Library for Fusion F1 DSP cores
+# Kindly note that the Cadence/Tensilica HiFi NDSP library repositories have been moved to https://github.com/foss-xtensa/
+## This space is no longer maintained. 
 
-# The repo is organized as follows.
-
-# xws:
-  Last stable release version of the NDSP containing two xws files.
-
-An xws each, for the library-kernels and the test-driver.
-Ex : FusionF1_VFPU_library_v1_2_0.xws & FusionF1_VFPU_demo_v1_2_0.xws
-
-Building and executing the xws in Xtensa Xplorer is described in the API Reference Document. 
-Detailed release documentation can be extracted from lib.xws/doc folder.
-
-# Release v1.2.0 Brief
-Release Date : Jan-2022. 
- This release primarily contains changes to work with RI.6 xt-xcc and RI.7 xt-clang toolchain.
+# Please find the new repositories links here...
+### HiFi1 NDSP          : https://github.com/foss-xtensa/ndsplib-hifi1
+### HiFi3/3Z NDSP       : https://github.com/foss-xtensa/ndsplib-hifi3
+### HiFi4 NDSP          : https://github.com/foss-xtensa/ndsplib-hifi4
+### HiFi5 NDSP          : https://github.com/foss-xtensa/ndsplib-hifi5
+### Fusion F1 NDSP      : https://github.com/foss-xtensa/ndsplib-fuf1
